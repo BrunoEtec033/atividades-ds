@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\bin\Debug\net8.0-windows\CadastroCarroApp.exe
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\bin\Debug\net8.0-windows\CadastroCarroApp.deps.json
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\bin\Debug\net8.0-windows\CadastroCarroApp.runtimeconfig.json
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\bin\Debug\net8.0-windows\CadastroCarroApp.dll
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\bin\Debug\net8.0-windows\CadastroCarroApp.pdb
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.Form1.resources
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.dll
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\refint\CadastroCarroApp.dll
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.pdb
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\CadastroCarroApp.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\CadastroCarroApp\CadastroCarroApp\obj\Debug\net8.0-windows\ref\CadastroCarroApp.dll
