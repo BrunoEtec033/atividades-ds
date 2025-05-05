@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\CadastroCarroApp\\CadastroCarroApp\\CadastroCarroApp.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\atividades-ds\\atividade 3\\CadastroCarroApp\\CadastroCarroApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\CadastroCarroApp\\CadastroCarroApp\\CadastroCarroApp.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\atividades-ds\\atividade 3\\CadastroCarroApp\\CadastroCarroApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\CadastroCarroApp\\CadastroCarroApp\\CadastroCarroApp.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\atividade 3\\CadastroCarroApp\\CadastroCarroApp.csproj",
         "projectName": "CadastroCarroApp",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\CadastroCarroApp\\CadastroCarroApp\\CadastroCarroApp.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\atividade 3\\CadastroCarroApp\\CadastroCarroApp.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\CadastroCarroApp\\CadastroCarroApp\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\atividade 3\\CadastroCarroApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
