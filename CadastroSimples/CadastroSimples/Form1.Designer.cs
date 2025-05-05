@@ -33,18 +33,18 @@
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
-            textBox1 = new TextBox();
-            txtNome = new TextBox();
-            textBox3 = new TextBox();
-            txtTelefone = new TextBox();
-            txtCpf = new TextBox();
-            button1 = new Button();
-            button8 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            button4 = new Button();
-            button5 = new Button();
-            button6 = new Button();
+            email_txt = new TextBox();
+            nome_txt = new TextBox();
+            codigo_txt = new TextBox();
+            telefone_txt = new TextBox();
+            cpf_txt = new TextBox();
+            incluir_btn = new Button();
+            alter_btn = new Button();
+            excluir_btn = new Button();
+            consultar_btn = new Button();
+            limpar_btn = new Button();
+            sair_btn = new Button();
+            consultar_lista_btn = new Button();
             SuspendLayout();
             // 
             // label1
@@ -92,122 +92,125 @@
             label5.TabIndex = 4;
             label5.Text = "CPF:";
             // 
-            // textBox1
+            // email_txt
             // 
-            textBox1.Location = new Point(93, 155);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(452, 23);
-            textBox1.TabIndex = 5;
+            email_txt.Location = new Point(93, 155);
+            email_txt.Name = "email_txt";
+            email_txt.Size = new Size(452, 23);
+            email_txt.TabIndex = 5;
             // 
-            // txtNome
+            // nome_txt
             // 
-            txtNome.Location = new Point(93, 122);
-            txtNome.Name = "txtNome";
-            txtNome.Size = new Size(452, 23);
-            txtNome.TabIndex = 6;
+            nome_txt.Location = new Point(93, 122);
+            nome_txt.Name = "nome_txt";
+            nome_txt.Size = new Size(452, 23);
+            nome_txt.TabIndex = 6;
             // 
-            // textBox3
+            // codigo_txt
             // 
-            textBox3.Location = new Point(93, 88);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(100, 23);
-            textBox3.TabIndex = 7;
+            codigo_txt.Location = new Point(93, 88);
+            codigo_txt.Name = "codigo_txt";
+            codigo_txt.Size = new Size(100, 23);
+            codigo_txt.TabIndex = 7;
             // 
-            // txtTelefone
+            // telefone_txt
             // 
-            txtTelefone.Location = new Point(93, 192);
-            txtTelefone.Name = "txtTelefone";
-            txtTelefone.Size = new Size(136, 23);
-            txtTelefone.TabIndex = 8;
+            telefone_txt.Location = new Point(93, 192);
+            telefone_txt.Name = "telefone_txt";
+            telefone_txt.Size = new Size(136, 23);
+            telefone_txt.TabIndex = 8;
             // 
-            // txtCpf
+            // cpf_txt
             // 
-            txtCpf.Location = new Point(93, 224);
-            txtCpf.Name = "txtCpf";
-            txtCpf.Size = new Size(136, 23);
-            txtCpf.TabIndex = 9;
+            cpf_txt.Location = new Point(75, 224);
+            cpf_txt.Name = "cpf_txt";
+            cpf_txt.Size = new Size(136, 23);
+            cpf_txt.TabIndex = 9;
             // 
-            // button1
+            // incluir_btn
             // 
-            button1.Location = new Point(27, 284);
-            button1.Name = "button1";
-            button1.Size = new Size(112, 53);
-            button1.TabIndex = 10;
-            button1.Text = "Incluir";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            incluir_btn.Location = new Point(27, 284);
+            incluir_btn.Name = "incluir_btn";
+            incluir_btn.Size = new Size(112, 53);
+            incluir_btn.TabIndex = 10;
+            incluir_btn.Text = "Incluir";
+            incluir_btn.UseVisualStyleBackColor = true;
+            incluir_btn.Click += button1_Click;
             // 
-            // button8
+            // alter_btn
             // 
-            button8.Location = new Point(164, 284);
-            button8.Name = "button8";
-            button8.Size = new Size(112, 53);
-            button8.TabIndex = 17;
-            button8.Text = "Alterar";
-            button8.UseVisualStyleBackColor = true;
+            alter_btn.Location = new Point(164, 284);
+            alter_btn.Name = "alter_btn";
+            alter_btn.Size = new Size(112, 53);
+            alter_btn.TabIndex = 17;
+            alter_btn.Text = "Alterar";
+            alter_btn.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // excluir_btn
             // 
-            button2.Location = new Point(433, 284);
-            button2.Name = "button2";
-            button2.Size = new Size(112, 53);
-            button2.TabIndex = 18;
-            button2.Text = "Excluir";
-            button2.UseVisualStyleBackColor = true;
+            excluir_btn.Location = new Point(433, 284);
+            excluir_btn.Name = "excluir_btn";
+            excluir_btn.Size = new Size(112, 53);
+            excluir_btn.TabIndex = 18;
+            excluir_btn.Text = "Excluir";
+            excluir_btn.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // consultar_btn
             // 
-            button3.Location = new Point(300, 284);
-            button3.Name = "button3";
-            button3.Size = new Size(112, 53);
-            button3.TabIndex = 19;
-            button3.Text = "Consultar";
-            button3.UseVisualStyleBackColor = true;
+            consultar_btn.Location = new Point(300, 284);
+            consultar_btn.Name = "consultar_btn";
+            consultar_btn.Size = new Size(112, 53);
+            consultar_btn.TabIndex = 19;
+            consultar_btn.Text = "Consultar";
+            consultar_btn.UseVisualStyleBackColor = true;
+            consultar_btn.Click += consultar_btn_Click;
             // 
-            // button4
+            // limpar_btn
             // 
-            button4.Location = new Point(300, 358);
-            button4.Name = "button4";
-            button4.Size = new Size(112, 53);
-            button4.TabIndex = 20;
-            button4.Text = "Limpar";
-            button4.UseVisualStyleBackColor = true;
+            limpar_btn.Location = new Point(300, 358);
+            limpar_btn.Name = "limpar_btn";
+            limpar_btn.Size = new Size(112, 53);
+            limpar_btn.TabIndex = 20;
+            limpar_btn.Text = "Limpar";
+            limpar_btn.UseVisualStyleBackColor = true;
+            limpar_btn.Click += limpar_btn_Click;
             // 
-            // button5
+            // sair_btn
             // 
-            button5.Location = new Point(433, 358);
-            button5.Name = "button5";
-            button5.Size = new Size(112, 53);
-            button5.TabIndex = 21;
-            button5.Text = "Sair";
-            button5.UseVisualStyleBackColor = true;
+            sair_btn.Location = new Point(433, 358);
+            sair_btn.Name = "sair_btn";
+            sair_btn.Size = new Size(112, 53);
+            sair_btn.TabIndex = 21;
+            sair_btn.Text = "Sair";
+            sair_btn.UseVisualStyleBackColor = true;
+            sair_btn.Click += sair_btn_Click;
             // 
-            // button6
+            // consultar_lista_btn
             // 
-            button6.Location = new Point(27, 358);
-            button6.Name = "button6";
-            button6.Size = new Size(249, 53);
-            button6.TabIndex = 22;
-            button6.Text = "Consultar Lista de Dados";
-            button6.UseVisualStyleBackColor = true;
+            consultar_lista_btn.Location = new Point(27, 358);
+            consultar_lista_btn.Name = "consultar_lista_btn";
+            consultar_lista_btn.Size = new Size(249, 53);
+            consultar_lista_btn.TabIndex = 22;
+            consultar_lista_btn.Text = "Consultar Lista de Dados";
+            consultar_lista_btn.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button6);
-            Controls.Add(button5);
-            Controls.Add(button4);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button8);
-            Controls.Add(button1);
-            Controls.Add(txtCpf);
-            Controls.Add(txtTelefone);
-            Controls.Add(textBox3);
-            Controls.Add(txtNome);
-            Controls.Add(textBox1);
+            Controls.Add(consultar_lista_btn);
+            Controls.Add(sair_btn);
+            Controls.Add(limpar_btn);
+            Controls.Add(consultar_btn);
+            Controls.Add(excluir_btn);
+            Controls.Add(alter_btn);
+            Controls.Add(incluir_btn);
+            Controls.Add(cpf_txt);
+            Controls.Add(telefone_txt);
+            Controls.Add(codigo_txt);
+            Controls.Add(nome_txt);
+            Controls.Add(email_txt);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
@@ -227,17 +230,18 @@
         private Label label3;
         private Label label4;
         private Label label5;
-        private TextBox textBox1;
-        private TextBox txtNome;
-        private TextBox textBox3;
-        private TextBox txtTelefone;
-        private TextBox txtCpf;
-        private Button button1;
-        private Button button8;
-        private Button button2;
-        private Button button3;
-        private Button button4;
-        private Button button5;
-        private Button button6;
+        private TextBox email_txt;
+        private TextBox nome_txt;
+        private TextBox codigo_txt;
+        private TextBox telefone_txt;
+        private TextBox cpf_txt;
+        private Button incluir_btn;
+        private Button button;
+        private Button excluir_btn;
+        private Button consultar_btn;
+        private Button limpar_btn;
+        private Button sair_btn;
+        private Button consultar_lista_btn;
+        private Button alter_btn;
     }
 }

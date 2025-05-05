@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\CadastroSimples\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\CadastroSimples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|c:\\users\\aluno\\desktop\\cadastrosimples\\cadastrosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|c:\\users\\aluno\\desktop\\atividades-ds\\cadastrosimples\\cadastrosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|solutionrelative:cadastrosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|c:\\users\\aluno\\desktop\\cadastrosimples\\cadastrosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|solutionrelative:cadastrosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|c:\\users\\aluno\\desktop\\atividades-ds\\cadastrosimples\\cadastrosimples\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|solutionrelative:cadastrosimples\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|c:\\users\\aluno\\desktop\\cadastrosimples\\cadastrosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|solutionrelative:cadastrosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|c:\\users\\aluno\\desktop\\atividades-ds\\cadastrosimples\\cadastrosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5AC20A-216A-41BC-9D5D-151009AABFF7}|CadastroSimples\\CadastroSimples.csproj|solutionrelative:cadastrosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,36 +27,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CadastroSimples\\CadastroSimples\\Program.cs",
-              "RelativeDocumentMoniker": "CadastroSimples\\Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CadastroSimples\\CadastroSimples\\Program.cs",
-              "RelativeToolTip": "CadastroSimples\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\CadastroSimples\\CadastroSimples\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroSimples\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\CadastroSimples\\CadastroSimples\\Form1.cs",
+              "RelativeToolTip": "CadastroSimples\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:25:06.99Z",
+              "WhenOpened": "2025-05-05T11:09:55.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CadastroSimples\\CadastroSimples\\Form1.cs",
-              "RelativeDocumentMoniker": "CadastroSimples\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CadastroSimples\\CadastroSimples\\Form1.cs",
-              "RelativeToolTip": "CadastroSimples\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\CadastroSimples\\CadastroSimples\\Pessoa.cs",
+              "RelativeDocumentMoniker": "CadastroSimples\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\CadastroSimples\\CadastroSimples\\Pessoa.cs",
+              "RelativeToolTip": "CadastroSimples\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:24:47.873Z",
+              "WhenOpened": "2025-05-05T11:07:38.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CadastroSimples\\CadastroSimples\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\CadastroSimples\\CadastroSimples\\Form1.cs",
               "RelativeDocumentMoniker": "CadastroSimples\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CadastroSimples\\CadastroSimples\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\atividades-ds\\CadastroSimples\\CadastroSimples\\Form1.cs [Projeto]",
               "RelativeToolTip": "CadastroSimples\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T10:15:18.03Z",

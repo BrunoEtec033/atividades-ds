@@ -1,9 +1,15 @@
 using MySql.Data.MySqlClient;
+using System.Numerics;
+using System.Security.Cryptography.X509Certificates;
 
 namespace CadastroSimples
 {
+
+
     public partial class Form1 : Form
     {
+        Pessoa pessoa = new Pessoa();
+        Pessoa pessoa2 = new Pessoa();
         public Form1()
         {
             InitializeComponent();
@@ -25,7 +31,32 @@ namespace CadastroSimples
 
         private void button1_Click(object sender, EventArgs e)
         {
+            pessoa.codigo = int.Parse(codigo_txt.Text);
+            pessoa.nome = nome_txt.Text;
+            pessoa.email = email_txt.Text;
+            pessoa.telefone = int.Parse(telefone_txt.Text);
+            pessoa.cpf = int.Parse(cpf_txt.Text);
+            MessageBox.Show("Incluido com sucesso!!");
+        }
 
+        private void consultar_btn_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show($" id: {pessoa.codigo} \n Nome: {pessoa.nome} \n Email: {pessoa.email} \n Telefone: {pessoa.telefone} \n CPF:{pessoa.cpf}");
+        }
+
+        private void limpar_btn_Click(object sender, EventArgs e)
+        {
+            nome_txt.Text = "";
+            codigo_txt.Text = "";
+            email_txt.Text = "";
+            telefone_txt.Text = "";
+            cpf_txt.Text = "";
+
+        }
+
+        private void sair_btn_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
